@@ -2,15 +2,18 @@
     "data": [
         {
             "title": "Cozy Workspace",
-            "image": "https://placehold.co/200x200"
+            "image": "https://placehold.co/200x200",
+            "keywords": ""
         },
         {
             "title": "Nature Escape",
-            "image": "https://placehold.co/200x200"
+            "image": "https://placehold.co/200x200",
+            "keywords": ""
         },
         {
             "title": "Minimalist Design",
-            "image": "https://placehold.co/200x200"
+            "image": "https://placehold.co/200x200",
+            "keywords": ""
         }
     ]
 }

@@ -1,5 +1,5 @@
 import { UserButton } from "@clerk/clerk-react"
-import { Home, Plus, Settings } from "lucide-react"
+import { HeartCrack, HeartIcon, Home, Plus, SearchIcon, Settings } from "lucide-react"
 
 const Sidebar = () => {
     return (
@@ -8,6 +8,8 @@ const Sidebar = () => {
             <div className="flex flex-col items-center gap-6">
                 <Home className="w-6 h-6 text-gray-700 hover:text-red-500 transition-colors cursor-pointer" />
                 <Plus className="w-6 h-6 text-gray-700 hover:text-red-500 transition-colors cursor-pointer" />
+                <SearchIcon className="w-6 h-6 text-gray-700 hover:text-red-500 transition-colors cursor-pointer" />
+                <HeartIcon className="w-6 h-6 text-gray-700 hover:text-red-500 transition-colors cursor-pointer" />
             </div>
 
             {/* Bottom icons */}
